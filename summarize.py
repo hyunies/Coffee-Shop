@@ -1,6 +1,5 @@
 
 #
-# Assignment #2
 # Output of list elements for testing program
 #
 
