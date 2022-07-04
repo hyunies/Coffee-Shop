@@ -1,5 +1,5 @@
-# Written by Sihyun Park
-# Last Edited 2019 10 15
+# Written by Sihyun (Erin) Park
+# Last Edited 2020 10 15
 # This program calculates the volume of a cube, pyramid and ellipsoid based on the dimensions inputted
 
 # Importing summarize module
