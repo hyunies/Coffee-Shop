@@ -1,5 +1,4 @@
-# Coffee-Shop
-A complete program in Python that computes the cost of breakfast at a coffee shop.
+# Volume-Calculator
+A complete program in Python that computes the volume for cubes, pyramids and ellipsoids.
 
-This project focuses on basic Python programming constructs, expressions and decisions, getting input from users, validating input and algorithm development and testing.
- 
+This project focuses on creating loops, functions, lists and modules in Python.
