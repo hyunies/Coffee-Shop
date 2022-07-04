@@ -1,10 +1,7 @@
 
-#
 # Output of list elements for testing program
-#
 
 # Function summarize simply outputs the lists for each shape with 2 decimal place accuracy
-#
 
 NEWLINE = "\n"
 DASH = "-"
